@@ -114,25 +114,26 @@ body {
 .images {
   margin-top: var(--medium-margin);
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(225px, 1fr)); /* Increase the minmax width */
   grid-gap: var(--default-spacing);
   justify-content: center;
   align-items: center;
 }
 
 .images .image {
-  width: 200px;
-  height: 200px;
+  width: 225px; /* Increase the width */
+  height: 225px; /* Increase the height */
   justify-self: center;
   align-self: center;
-  margin-left: 2rem;
-  border-radius: 10px;
+  margin-left: var(--default-spacing); /* Adjust the margin as needed */
+  border-radius: 7px;
   transition: transform 0.5s;
 }
 
 .images .image:hover {
   transform: translateY(-3px);
 }
+
 
 /* images section ends */
 
