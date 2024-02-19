@@ -1,4 +1,4 @@
-# Image search application using UNSPLASH API in React
+# Image search application using Unsplash API in React
 
 Technologies Used
 React
