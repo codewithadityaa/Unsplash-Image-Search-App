@@ -2,9 +2,9 @@
 
 Technologies Used
 
-React
+*React
 
-Unsplash API
+*Unsplash API
 
 Responsive -> The app is designed to work well on different screen sizes, making it accessible on both desktop and mobile devices.
 
