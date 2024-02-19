@@ -1,7 +1,9 @@
 # Image search application using Unsplash API in React
 
 Technologies Used
+
 React
+
 Unsplash API
 
 Responsive -> The app is designed to work well on different screen sizes, making it accessible on both desktop and mobile devices.
