@@ -1,10 +1,8 @@
 # Image search application using Unsplash API in React
 
-Technologies Used
 
-*React
+"Unsplash Image Search" is a React app for easy exploration and search of high-quality images from Unsplash.
 
-*Unsplash API
 
 Responsive -> The app is designed to work well on different screen sizes, making it accessible on both desktop and mobile devices.
 
