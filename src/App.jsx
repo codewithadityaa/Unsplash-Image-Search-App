@@ -3,7 +3,7 @@ import axios from "axios";
 import './index.css';
 import { useState, useCallback, useEffect, useRef } from 'react';
 
-const API_URL = "https://api.unsplash.com/search/photos?page=1&query=office";
+const API_URL = "https://api.unsplash.com/search/photos";
 const IMAGES_PER_PAGE = 20;
 
 
