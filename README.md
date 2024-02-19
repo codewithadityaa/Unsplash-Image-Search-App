@@ -5,7 +5,9 @@ React
 Unsplash API
 
 Responsive -> The app is designed to work well on different screen sizes, making it accessible on both desktop and mobile devices.
+
 Unsplash API -> Inorder to fetch high-quality images based on user queries.
+
 Users can input search queries to discover specific images of interest.
 
 
